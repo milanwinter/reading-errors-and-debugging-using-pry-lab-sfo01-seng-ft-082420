@@ -15,4 +15,3 @@ def engage
   date = generate_star_date
   puts "hello"
 end
-
